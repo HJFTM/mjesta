@@ -6,8 +6,12 @@
       "pages": [
         {
           "name": "1700. Popovići",
-          "path": "/pages/ENTITET/mjesto_migracije/Popovi%C4%87i",
+          "path": "/pages/ENTITET/mjesto/Popovi%C4%87i",
           "pages": [
+            {
+              "name": "Mjesto",
+              "path": "/pages/ENTITET/mjesto/Popovi%C4%87i"
+            },
             {
               "name": "Migracije",
               "path": "/pages/ENTITET/mjesto_migracije/Popovi%C4%87i"
@@ -40,8 +44,12 @@
         },
         {
           "name": "1748. Dragalovci",
-          "path": "/pages/ENTITET/mjesto_migracije/Dragalovci",
+          "path": "/pages/ENTITET/mjesto/Dragalovci",
           "pages": [
+            {
+              "name": "Mjesto",
+              "path": "/pages/ENTITET/mjesto/Dragalovci"
+            },
             {
               "name": "Migracije",
               "path": "/pages/ENTITET/mjesto_migracije/Dragalovci"
@@ -74,8 +82,12 @@
         },
         {
           "name": "1758. Sivša",
-          "path": "/pages/ENTITET/mjesto_migracije/Siv%C5%A1a",
+          "path": "/pages/ENTITET/mjesto/Siv%C5%A1a",
           "pages": [
+            {
+              "name": "Mjesto",
+              "path": "/pages/ENTITET/mjesto/Siv%C5%A1a"
+            },
             {
               "name": "Migracije",
               "path": "/pages/ENTITET/mjesto_migracije/Siv%C5%A1a"
@@ -108,8 +120,12 @@
         },
         {
           "name": "1765. Dubočac",
-          "path": "/pages/ENTITET/mjesto_migracije/Dubo%C4%8Dac",
+          "path": "/pages/ENTITET/mjesto/Dubo%C4%8Dac",
           "pages": [
+            {
+              "name": "Mjesto",
+              "path": "/pages/ENTITET/mjesto/Dubo%C4%8Dac"
+            },
             {
               "name": "Migracije",
               "path": "/pages/ENTITET/mjesto_migracije/Dubo%C4%8Dac"
@@ -142,8 +158,12 @@
         },
         {
           "name": "1775. Miljanovci",
-          "path": "/pages/ENTITET/mjesto_migracije/Miljanovci",
+          "path": "/pages/ENTITET/mjesto/Miljanovci",
           "pages": [
+            {
+              "name": "Mjesto",
+              "path": "/pages/ENTITET/mjesto/Miljanovci"
+            },
             {
               "name": "Migracije",
               "path": "/pages/ENTITET/mjesto_migracije/Miljanovci"
@@ -176,8 +196,12 @@
         },
         {
           "name": "1791. Kobaš",
-          "path": "/pages/ENTITET/mjesto_migracije/Koba%C5%A1",
+          "path": "/pages/ENTITET/mjesto/Koba%C5%A1",
           "pages": [
+            {
+              "name": "Mjesto",
+              "path": "/pages/ENTITET/mjesto/Koba%C5%A1"
+            },
             {
               "name": "Migracije",
               "path": "/pages/ENTITET/mjesto_migracije/Koba%C5%A1"
@@ -210,8 +234,12 @@
         },
         {
           "name": "1810. Pećnik",
-          "path": "/pages/ENTITET/mjesto_migracije/Pe%C4%87nik",
+          "path": "/pages/ENTITET/mjesto/Pe%C4%87nik",
           "pages": [
+            {
+              "name": "Mjesto",
+              "path": "/pages/ENTITET/mjesto/Pe%C4%87nik"
+            },
             {
               "name": "Migracije",
               "path": "/pages/ENTITET/mjesto_migracije/Pe%C4%87nik"
@@ -244,8 +272,12 @@
         },
         {
           "name": "1832. Gornja Dubica",
-          "path": "/pages/ENTITET/mjesto_migracije/Gornja%20Dubica",
+          "path": "/pages/ENTITET/mjesto/Gornja%20Dubica",
           "pages": [
+            {
+              "name": "Mjesto",
+              "path": "/pages/ENTITET/mjesto/Gornja%20Dubica"
+            },
             {
               "name": "Migracije",
               "path": "/pages/ENTITET/mjesto_migracije/Gornja%20Dubica"
@@ -280,14 +312,15 @@
     }
   ],
   "entryPoints": [
-    "/pages/ENTITET/mjesto_migracije/Popovi%C4%87i",
-    "/pages/ENTITET/mjesto_migracije/Dragalovci",
-    "/pages/ENTITET/mjesto_migracije/Siv%C5%A1a",
-    "/pages/ENTITET/mjesto_migracije/Dubo%C4%8Dac",
-    "/pages/ENTITET/mjesto_migracije/Miljanovci",
-    "/pages/ENTITET/mjesto_migracije/Koba%C5%A1",
-    "/pages/ENTITET/mjesto_migracije/Pe%C4%87nik",
-    "/pages/ENTITET/mjesto_migracije/Gornja%20Dubica",
+    "/pages/ENTITET/mjesto/Popovi%C4%87i",
+    "/pages/ENTITET/mjesto/Dragalovci",
+    "/pages/ENTITET/mjesto/Siv%C5%A1a",
+    "/pages/ENTITET/mjesto/Dubo%C4%8Dac",
+    "/pages/ENTITET/mjesto/Miljanovci",
+    "/pages/ENTITET/mjesto/Koba%C5%A1",
+    "/pages/ENTITET/mjesto/Pe%C4%87nik",
+    "/pages/ENTITET/mjesto/Gornja%20Dubica",
+    "/pages/ENTITET/mjesto/Popovi%C4%87i",
     "/pages/ENTITET/mjesto_migracije/Popovi%C4%87i",
     "/pages/ENTITET/mjesto_stablo/Popovi%C4%87i",
     "/pages/ENTITET/mjesto_zapisi/Popovi%C4%87i",
@@ -295,6 +328,7 @@
     "/pages/ENTITET/mjesto_zupe/Popovi%C4%87i",
     "/pages/ENTITET/mjesto_dogadjaji/Popovi%C4%87i",
     "/pages/ENTITET/mjesto_groblje/Popovi%C4%87i",
+    "/pages/ENTITET/mjesto/Dragalovci",
     "/pages/ENTITET/mjesto_migracije/Dragalovci",
     "/pages/ENTITET/mjesto_stablo/Dragalovci",
     "/pages/ENTITET/mjesto_zapisi/Dragalovci",
@@ -302,6 +336,7 @@
     "/pages/ENTITET/mjesto_zupe/Dragalovci",
     "/pages/ENTITET/mjesto_dogadjaji/Dragalovci",
     "/pages/ENTITET/mjesto_groblje/Dragalovci",
+    "/pages/ENTITET/mjesto/Siv%C5%A1a",
     "/pages/ENTITET/mjesto_migracije/Siv%C5%A1a",
     "/pages/ENTITET/mjesto_stablo/Siv%C5%A1a",
     "/pages/ENTITET/mjesto_zapisi/Siv%C5%A1a",
@@ -309,6 +344,7 @@
     "/pages/ENTITET/mjesto_zupe/Siv%C5%A1a",
     "/pages/ENTITET/mjesto_dogadjaji/Siv%C5%A1a",
     "/pages/ENTITET/mjesto_groblje/Siv%C5%A1a",
+    "/pages/ENTITET/mjesto/Dubo%C4%8Dac",
     "/pages/ENTITET/mjesto_migracije/Dubo%C4%8Dac",
     "/pages/ENTITET/mjesto_stablo/Dubo%C4%8Dac",
     "/pages/ENTITET/mjesto_zapisi/Dubo%C4%8Dac",
@@ -316,6 +352,7 @@
     "/pages/ENTITET/mjesto_zupe/Dubo%C4%8Dac",
     "/pages/ENTITET/mjesto_dogadjaji/Dubo%C4%8Dac",
     "/pages/ENTITET/mjesto_groblje/Dubo%C4%8Dac",
+    "/pages/ENTITET/mjesto/Miljanovci",
     "/pages/ENTITET/mjesto_migracije/Miljanovci",
     "/pages/ENTITET/mjesto_stablo/Miljanovci",
     "/pages/ENTITET/mjesto_zapisi/Miljanovci",
@@ -323,6 +360,7 @@
     "/pages/ENTITET/mjesto_zupe/Miljanovci",
     "/pages/ENTITET/mjesto_dogadjaji/Miljanovci",
     "/pages/ENTITET/mjesto_groblje/Miljanovci",
+    "/pages/ENTITET/mjesto/Koba%C5%A1",
     "/pages/ENTITET/mjesto_migracije/Koba%C5%A1",
     "/pages/ENTITET/mjesto_stablo/Koba%C5%A1",
     "/pages/ENTITET/mjesto_zapisi/Koba%C5%A1",
@@ -330,6 +368,7 @@
     "/pages/ENTITET/mjesto_zupe/Koba%C5%A1",
     "/pages/ENTITET/mjesto_dogadjaji/Koba%C5%A1",
     "/pages/ENTITET/mjesto_groblje/Koba%C5%A1",
+    "/pages/ENTITET/mjesto/Pe%C4%87nik",
     "/pages/ENTITET/mjesto_migracije/Pe%C4%87nik",
     "/pages/ENTITET/mjesto_stablo/Pe%C4%87nik",
     "/pages/ENTITET/mjesto_zapisi/Pe%C4%87nik",
@@ -337,6 +376,7 @@
     "/pages/ENTITET/mjesto_zupe/Pe%C4%87nik",
     "/pages/ENTITET/mjesto_dogadjaji/Pe%C4%87nik",
     "/pages/ENTITET/mjesto_groblje/Pe%C4%87nik",
+    "/pages/ENTITET/mjesto/Gornja%20Dubica",
     "/pages/ENTITET/mjesto_migracije/Gornja%20Dubica",
     "/pages/ENTITET/mjesto_stablo/Gornja%20Dubica",
     "/pages/ENTITET/mjesto_zapisi/Gornja%20Dubica",
